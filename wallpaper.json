@@ -281,14 +281,6 @@
             "artistname_url":"https://bit.ly/2CI4uqQ"
         },
         {
-            "https://i.imgur.com/nIyuoGp.jpg",
-            "small_https://i.imgur.com/nIyuoGps.jpg",
-            "location_txt":"Cinque Terre, Italy",
-            "location_url":"",
-            "artistname_txt":"Anonymous",
-            "artistname_url":""
-        },
-        {
             "image":"http://i.imgur.com/hzIoJAb.jpg",
             "small_image":"http://i.imgur.com/hzIoJAbs.jpg",
             "location_txt":"Blue Aurora Borealis",
@@ -720,5 +712,5 @@
             "artistname_txt":"",
             "artistname_url":""
         }
-    ]
+        ]
 }
