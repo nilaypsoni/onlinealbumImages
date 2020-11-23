@@ -1,14 +1,6 @@
 {
     "OnlineAlbumImages":[
         {
-            "image":"http://i.imgur.com/VGmpnRR.jpg",
-            "small_image":"http://i.imgur.com/VGmpnRRs.jpg",
-            "location_txt":"Yosemite National Park",
-            "location_url":"",
-            "artistname_txt":"Humphrey",
-            "artistname_url":"https://www.instagram.com/52NorthEast/?hl=en"
-        },
-        {
             "image":"http://i.imgur.com/ncwJUlS.jpg",
             "small_image":"http://i.imgur.com/ncwJUlSs.jpg",
             "location_txt":"Glacier National Park",
@@ -295,14 +287,6 @@
             "location_url":"",
             "artistname_txt":"Oleksandr Pidvalnyi ",
             "artistname_url":"https://instagram.com/alexandr_podvalny/"
-        },
-        {
-            "image":"http://i.imgur.com/W0BudUa.jpg",
-            "small_image":"http://i.imgur.com/W0BudUas.jpg",
-            "location_txt":"Modernos centros comerciales",
-            "location_url":"",
-            "artistname_txt":"Anonymous",
-            "artistname_url":""
         },
         {
             "image":"http://i.imgur.com/lCwRTht.jpg",
